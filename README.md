@@ -32,7 +32,7 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
   <img align="center" alt="Erick-Playwrigth" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
   <img align="center" alt="Erick-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
   <img align="center" alt="Erick-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-  <img align="right" alt="Erick-yoda" src="https://cdn.discord.com/attachments/795358919417397249/825430589581688872/hi.gif"/>
+  <img align="center" alt="Erick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
 
