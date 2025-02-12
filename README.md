@@ -1,5 +1,9 @@
+<h1 align="center">
+  Olá mundo! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm50bmJhbXBneWprbGt3cHBlZHIxd3N1bWVvbnB0NTd4N20zaTFxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg3M3k2NG04YWRwMGhrNzV1ajd1OWEyb3lmZDg5eDI4amJucTQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 <div align="center">
   <a href = "mailto:contatoerickorlandini10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -9,11 +13,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=erickorlanini&style=flat-square&color=blue" alt=""/>
 </div>
-
-<h1 align="center">
-  Olá mundo! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 Sobre mim 
 - 🤖 Hoje trabalho como QA Automator / RPA 
