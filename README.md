@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/erickorlandini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
