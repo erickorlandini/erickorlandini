@@ -14,9 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=erickorlanini&style=flat-square&color=blue" alt=""/>
 </div>
 
-Sobre mim 
+SOBRE MIM 
 - 🤖 Hoje trabalho como QA Automator / RPA 
-- 📚 Estudando Java e React
+- 📚 No meu tempo livre gosto de estudar Java e React
+- 👨‍💻 Tambem programo robos como soluções inteligentes 
 
 <div align="center">
   <a href="https://github.com/erickorlandini">
