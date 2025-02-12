@@ -1,23 +1,22 @@
-<h1 align="center">
-  Olá mundo! 
+<h1>
+  Hello world 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWg3M3k2NG04YWRwMGhrNzV1ajd1OWEyb3lmZDg5eDI4amJucTQ1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
-</div>
-<div align="center">
+
+<h3>About me</h3>
+
+Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate with multidisciplinary teams and contribute to innovative projects. My goal is to keep learning and growing professionally, always looking for ways to apply my passion for technology to solve problems efficiently and creatively.
+- 🤖 Today I work as a QA Automator / RPA 
+- 📚 In my spare time I like to study Java and React
+- 👨‍💻 I also program robots as intelligent solutions
+<div>
   <a href = "mailto:contatoerickorlandini10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-orlandini-souza-aleixo-917881231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/erickorlandini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=erickorlanini&style=flat-square&color=blue" alt=""/>
-</div>
 
-SOBRE MIM 
-- 🤖 Hoje trabalho como QA Automator / RPA 
-- 📚 No meu tempo livre gosto de estudar Java e React
-- 👨‍💻 Tambem programo robos como soluções inteligentes 
+#
+<h3>My stats</h3>
 
 <div align="center">
   <a href="https://github.com/erickorlandini">
