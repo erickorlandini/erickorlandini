@@ -20,8 +20,8 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
 
 <div align="center">
   <a href="https://github.com/erickorlandini">
-<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -43,4 +43,3 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
