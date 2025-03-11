@@ -15,7 +15,6 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
   <a href="https://instagram.com/erickorlandini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-#
 <h3>Things I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -35,7 +34,6 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-303030?style=flat-square&logo=amazon&logoColor=white" />  
 </p>
 
-#
 <h3>My stats</h3>
 
 <div align="center">
