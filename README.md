@@ -25,6 +25,7 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
   <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-13aa52?style=flat-square&logo=Playwright&logoColor=white" />
   <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot-303030?style=flat-square&logo=robotframework&logoColor=white" /> 
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-13aa52?style=flat-square&logo=selenium&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-303030?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" />
