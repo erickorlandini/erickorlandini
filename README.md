@@ -1,64 +1,54 @@
-<h1>
-  Hello world 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<h3>About me</h3>
-
-Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate with multidisciplinary teams and contribute to innovative projects. My goal is to keep learning and growing professionally, always looking for ways to apply my passion for technology to solve problems efficiently and creatively.
-- 🤖 Today I work as a QA Automator / RPA 
-- 📚 In my spare time I like to study Java and React
-- 👨‍💻 I also program robots as intelligent solutions
-<div>
-  <a href = "mailto:contatoerickorlandini10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-orlandini-souza-aleixo-917881231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/erickorlandini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9jb240cjR2bXd5eXVnd3pyNmVlZWNjZjllcTE1NG9qd3V5dnczdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="850px"/>
 </div>
-
-<h3>Things I code with</h3>
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-03589b?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-46a2f1?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-13aa52?style=flat-square&logo=Playwright&logoColor=white" />
-  <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot-303030?style=flat-square&logo=robotframework&logoColor=white" /> 
-  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-13aa52?style=flat-square&logo=selenium&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-303030?style=flat-square&logo=cypress&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=spring&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-FFD343?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Postres" src="https://img.shields.io/badge/-PostgreSQL-03589b?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-303030?style=flat-square&logo=amazon&logoColor=white" />  
-</p>
-
-<h3>My stats</h3>
 
 <div align="center">
-  <a href="https://github.com/erickorlandini">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=E05194&center=true&vCenter=true&width=435&height=25%&lines=Hello+there+!;Welcome+to+My+Profile+!;My+name+is+Erick" alt="Typing SVG" /></a>
 </div>
-<!-- <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
-  <img align="center" alt="Erick-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Erick-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="Erick-Playwrigth" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
-  <img align="center" alt="Erick-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-  <img align="center" alt="Erick-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-  <img align="center" alt="Erick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-</div> -->
 
+I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate with multidisciplinary teams and contribute to innovative projects. My goal is to keep learning and growing professionally, always looking for ways to apply my passion for technology to solve problems efficiently and creatively.
 
+<h3 align="center">Technology Stack</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-spring-black?style=flat-square&logo=spring&logoColor=green""/>
+  <img src="https://img.shields.io/badge/-robot-black?style=flat-square&logo=robotframework"/>
+  <img src="https://img.shields.io/badge/-selenium-black?style=flat-square&logo=selenium"/>
+  <img src="https://img.shields.io/badge/-cypress-black?style=flat-square&logo=cypress"/>
+  <img src="https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazon"/>
+  <img src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue""/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+</p>
+
+<div align="center">
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=erickorlandini&row=1&margin-w=40&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+</div>
+  <div align="center">
+<!--       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=K1rsN7&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000"> -->
+  <a href="https://github.com/erickorlandini/erickorlandini">
+    <img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=erickorlandini&bg_color=RRGGBBAA&title_color=E05194&color=E05194&line=E05194&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+<!--   <img src="https://wakatime.com/share/@K1rsN7/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg"> -->
+  </div>
+
+<div align="center">
+<br>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=E05194&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+</div>
