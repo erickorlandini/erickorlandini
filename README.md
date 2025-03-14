@@ -33,7 +33,7 @@ I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate 
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=radical"/>
 </p>
 
 <div align="center">
