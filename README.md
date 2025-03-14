@@ -17,6 +17,7 @@ I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate 
   <img src="https://img.shields.io/badge/-robot-black?style=flat-square&logo=robotframework"/>
   <img src="https://img.shields.io/badge/-selenium-black?style=flat-square&logo=selenium"/>
   <img src="https://img.shields.io/badge/-cypress-black?style=flat-square&logo=cypress"/>
+  <img src="https://img.shields.io/badge/-playwright-black?style=flat-square&logo=playwright"/>
   <img src="https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazon"/>
   <img src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux"/>
