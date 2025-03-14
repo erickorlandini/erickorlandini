@@ -22,7 +22,7 @@ I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate 
   <img src="https://img.shields.io/badge/-playwright-black?style=flat-square&logo=playwright"/>
   <img src="https://img.shields.io/badge/python-black?style=flat-square&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-java-black?style=flat-square&logo=java"/>
-  <img src="https://img.shields.io/badge/-spring-black?style=flat-square&logo=spring&logoColor=green""/>
+  <img src="https://img.shields.io/badge/-spring boot-black?style=flat-square&logo=springboot&logoColor=green""/>
   <img src="https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   <img src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazon"/>
