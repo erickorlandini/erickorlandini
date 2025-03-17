@@ -25,6 +25,7 @@ I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate 
   <img src="https://img.shields.io/badge/-spring boot-black?style=flat-square&logo=springboot&logoColor=green""/>
   <img src="https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-postman-black?style=flat-square&logo=postman"/>
   <img src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazon"/>
   <img src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
