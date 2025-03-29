@@ -29,7 +29,7 @@ I'm a Junior Full stack developer. I'm ready to take on challenges, collaborate 
   <img src="https://img.shields.io/badge/-aws-black?style=flat-square&logo=amazon"/>
   <img src="https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<!--   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/> -->
 </p>
 
 <p align = "center">
