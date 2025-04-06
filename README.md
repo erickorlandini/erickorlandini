@@ -93,3 +93,8 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
     <img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=erickorlandini&bg_color=RRGGBBAA&title_color=808080&color=808080&line=808080&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erickorlandini&row=1&margin-w=40&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align = "center">
+   <img  src = "https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=dark&line_height=27">
+   <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=dark"/>
+ </p>
