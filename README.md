@@ -94,7 +94,8 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erickorlandini&row=1&margin-w=40&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align = "center">
-   <img  src = "https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=dark&line_height=27">
-   <img height="206em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=dark"/>
- </p>
+ <div align="center">
+    <img height="230px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&theme=transparent&title_color=808080&color=808080&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      
+<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+</div>
