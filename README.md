@@ -95,7 +95,7 @@ Hi, I'm Erick Orlandini and I'm a Junior Full stack developer. I'm ready to take
 [![trophy](https://github-profile-trophy.vercel.app/?username=erickorlandini&row=1&margin-w=40&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-    <img height="230px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&theme=transparent&title_color=808080&color=808080&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="230px" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&theme=transparent&rank_icon=github&title_color=808080&color=808080&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+    <img height="210px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&theme=transparent&title_color=808080&color=808080&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="210px" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&theme=transparent&rank_icon=github&title_color=808080&color=808080&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 <!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
 </div>
