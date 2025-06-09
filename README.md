@@ -35,5 +35,28 @@ Hi, I'm Erick Orlandini and I'm a Full stack developer. I'm ready to take on cha
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-303030?style=flat-square&logo=amazon&logoColor=white" />  
 </p>
 
+<h3>My stats</h3>
+
+<div align="center">
+  <a href="https://github.com/erickorlandini">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=erickorlandini&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickorlandini&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
+</div>
+<!-- <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
+  <img align="center" alt="Erick-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Erick-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="center" alt="Erick-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="Erick-Playwrigth" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"/>
+  <img align="center" alt="Erick-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+  <img align="center" alt="Erick-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+  <img align="center" alt="Erick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</div> -->
+
+
+
+
+
 
 
