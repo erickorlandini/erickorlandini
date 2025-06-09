@@ -54,6 +54,15 @@ Hi, I'm Erick Orlandini and I'm a Full stack developer. I'm ready to take on cha
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div> -->
 
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/erickorlandini/erickorlandini/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>
+<br><br>
+
 
 
 
