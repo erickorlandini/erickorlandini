@@ -22,7 +22,6 @@ Hi, I'm Erick Orlandini and I'm a Full stack developer. I'm ready to take on cha
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-03589b?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-46a2f1?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-13aa52?style=flat-square&logo=Playwright&logoColor=white" />
   <img alt="Robot Framework" src="https://img.shields.io/badge/-Robot-303030?style=flat-square&logo=robotframework&logoColor=white" /> 
   <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-13aa52?style=flat-square&logo=selenium&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-303030?style=flat-square&logo=cypress&logoColor=white" />
