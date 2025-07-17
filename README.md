@@ -30,9 +30,10 @@ Hi, I'm Erick Orlandini and I'm a Full stack developer. I'm ready to take on cha
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFD343?style=flat-square&logo=python&logoColor=white" />
   <img alt="Postres" src="https://img.shields.io/badge/-PostgreSQL-03589b?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-303030?style=flat-square&logo=aws&logoColor=white" />  
-  <img alt="AWS" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <h3>My stats</h3>
