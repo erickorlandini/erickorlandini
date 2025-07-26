@@ -5,8 +5,8 @@
 
 <h3>About me</h3>
 
-Hi, I'm Erick Orlandini and I'm a Full stack developer. I'm ready to take on challenges, collaborate with multitasking teams and contribute to innovative projects. My goal is to keep learning and growing professionally, always looking for ways to apply my passion for technology to solve problems efficiently and creatively.
-- 🤖 Today I work as a Developer / RPA 
+Hi, I'm Erick Orlandini and I'm a Full Stack Developer. I'm ready to take on challenges, collaborate with multitasking teams and contribute to innovative projects. My goal is to keep learning and growing professionally, always looking for ways to apply my passion for technology to solve problems efficiently and creatively.
+- 🤖 Today I work as a Full Stack Developer / RPA 
 - 📚 In my spare time I like to study Java and React
 - 👨‍💻 I also program robots as intelligent solutions
 <div>
@@ -28,6 +28,7 @@ Hi, I'm Erick Orlandini and I'm a Full stack developer. I'm ready to take on cha
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-CB3837?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-CB3837?style=flat-square&logo=hibernate&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFD343?style=flat-square&logo=python&logoColor=white" />
   <img alt="Postres" src="https://img.shields.io/badge/-PostgreSQL-03589b?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
